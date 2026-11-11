@@ -1,0 +1,14 @@
+1) Project objectives
+
+The primary objective of this project is to conduct a direct empirical comparison between screenless physical robotics (using Sphero Indi) and screen-based block coding environments (using Sphero BOLT) to evaluate their respective impacts on cognitive load and Computational Thinking (CT) acquisition in primary education.
+
+Introduction to programming frequently presents high cognitive hurdles for novices due to working memory limitations. By grounding abstract computational concepts in physical, spatial objects ("objects to think with"), screenless robotics aims to eliminate screen induced split attention friction. This project seeks to answer the core question: Does screenless physical interaction reduce extraneous cognitive load compared to screen-based block coding while maintaining or improving task performance and engagement?
+
+Key deliverables & artifacts
+
+Adapted PACT challenge tasks: A standardized suite of task scenarios based on Maynooth University’s PACT initiative, covering abstraction, algorithmic execution, decomposition, and pattern recognition.
+
+Empirical testing framework: A data collection protocol incorporating stopwatch timer tracking, trial error logs, an adapted NASA-TLX cognitive workload instrument, and pre/post-task observational logs.
+
+Comparative data analysis & evaluation report: Quantitative and qualitative findings comparing task completion speed, error frequencies, and subjective cognitive workload across both modalities.
+
